@@ -3,4 +3,4 @@
 
 # 目录
 ---
- - ![KNN](https://github.com/jiangkang/KMachineLearning/tree/master/KNN_DigitsRecognition)
+ - [KNN](https://github.com/jiangkang/KMachineLearning/tree/master/KNN_DigitsRecognition)
