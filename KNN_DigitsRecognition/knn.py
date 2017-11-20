@@ -12,7 +12,7 @@ import os
 import matplotlib.pyplot as plt
 
 
-# 将图像数据转换为（1，1024）矩阵
+# 将图像数据转换为（1，1024）向量
 def img2vector(filename):
     returnVect = numpy.zeros((1, 1024))
     file = open(filename)
@@ -85,4 +85,4 @@ def selectK():
 selectK()
 
 # 测试证明，k选3效果比较号
-handWritingClassTest(3)
+# handWritingClassTest(3)
